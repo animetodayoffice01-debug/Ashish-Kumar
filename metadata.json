@@ -1,0 +1,7 @@
+{
+  "name": "BioLink Hub – Instagram Link in Bio",
+  "description": "Mobile-first, high-performance Instagram bio link hub with categories, search, customization, and integrated admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
